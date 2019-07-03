@@ -1,0 +1,45 @@
+.btn-conf
+{
+    margin-right: 19px;
+    color:#fff
+}
+
+#modal
+{
+    padding: 20px;
+    position: absolute;
+    left: 10px;
+    background: #ddd;
+    height: 250px;
+    border-radius: 4px;
+    text-align: center;
+    transform: translateX(-620px);
+    transition: .4s;
+    width: 370px;
+}
+
+.updat_form_groupe
+{
+    width: 100%;
+    margin-bottom: 3px;
+    margin-top: 18px;
+}
+
+
+#modal.active-modal
+{
+    transform: translateX(590px)
+}
+
+.btn-groupe
+{
+
+  text-align: left!important;
+  margin-top: 18px;
+}
+
+.btn-groupe button
+{
+    margin-right: 9px;
+   
+}

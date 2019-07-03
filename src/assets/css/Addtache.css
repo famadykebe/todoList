@@ -1,0 +1,15 @@
+.formgroup
+{
+    margin-right: 18px;
+    margin-top: 39px;
+}
+
+
+.alert-danger{
+    display: none
+}
+
+.alert-danger.active
+{
+    display: block
+}
